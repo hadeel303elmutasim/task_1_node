@@ -1,0 +1,71 @@
+[
+    {
+        "userID": "1",
+        "userFname": "hadeel",
+        "userLname": "elmutasim",
+        "userAge": 30,
+        "userCity": "abu dhabi"
+    },
+    {
+        "userID": "2",
+        "userFname": "hiba",
+        "userLname": "ahmed",
+        "userAge": 25,
+        "userCity": "khartoum"
+    },
+    {
+        "userID": "3",
+        "userFname": "sara",
+        "userLname": "mesbah",
+        "userAge": 28,
+        "userCity": "ryadah"
+    },
+    {
+        "userID": "4",
+        "userFname": "duaa",
+        "userLname": "mohamed",
+        "userAge": 31,
+        "userCity": "dubai"
+    },
+    {
+        "userID": "5",
+        "userFname": "shaza",
+        "userLname": "ahmed",
+        "userAge": 30,
+        "userCity": "abu dhabi"
+    },
+    {
+        "userID": "6",
+        "userFname": "shahad",
+        "userLname": "tarig",
+        "userAge": 28,
+        "userCity": "khartoum"
+    },
+    {
+        "userID": "7",
+        "userFname": "arwa",
+        "userLname": "alnowman",
+        "userAge": 22,
+        "userCity": "cairo"
+    },
+    {
+        "userID": "8",
+        "userFname": "elaf",
+        "userLname": "abd alaziz",
+        "userAge": 40,
+        "userCity": "cairo"
+    },
+    {
+        "userID": "9",
+        "userFname": "ahmed",
+        "userLname": "omer",
+        "userAge": 35,
+        "userCity": "khartoum"
+    },
+    {
+        "userID": "10",
+        "userFname": "mazin",
+        "userLname": "abdelrahman",
+        "userCity": "khartoum"
+    }
+]
